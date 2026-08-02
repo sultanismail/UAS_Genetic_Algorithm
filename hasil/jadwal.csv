@@ -1,0 +1,25 @@
+Mata Kuliah,Dosen,Ruang,Slot Waktu
+AI,DosenA,R3,Selasa-08
+ML,DosenB,R4,Senin-13
+DB,DosenC,R2,Rabu-08
+CN,DosenD,R3,Rabu-10
+SE,DosenE,R1,Rabu-13
+OS,DosenF,R4,Rabu-08
+IR,DosenA,R3,Senin-08
+NLP,DosenB,R1,Selasa-10
+CV,DosenC,R2,Senin-08
+IoT,DosenD,R1,Kamis-10
+CyberSec,DosenF,R1,Selasa-13
+BigData,DosenA,R1,Kamis-08
+DL,DosenB,R4,Rabu-10
+NoSQL,DosenC,R3,Selasa-13
+Cloud,DosenD,R3,Selasa-10
+UX,DosenE,R2,Selasa-13
+SecEng,DosenF,R3,Kamis-08
+Agile,DosenA,R3,Senin-13
+RL,DosenB,R2,Kamis-08
+ETL,DosenC,R1,Kamis-13
+DevOps,DosenD,R3,Senin-10
+GameDev,DosenE,R4,Kamis-08
+Blockchain,DosenF,R2,Selasa-08
+DataMining,DosenA,R1,Rabu-08
